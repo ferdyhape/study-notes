@@ -1,3 +1,4 @@
+```bash
 ### Rewrite Rules Added by CyberPanel Rewrite Rule Generator
 
 RewriteEngine On
@@ -27,3 +28,4 @@ order deny,allow
 deny from all
 allow from 123.123.123.123
 </Files>
+```
