@@ -18,7 +18,7 @@
 8. check the cronjob list with the command "crontab -l"
 9. check the cronjob log with the command "grep CRON /var/log/syslog"
 
-Note:
+## Note:
 
 - For the script to be executed by cronjob, the script must have execute permission. Give execute permission with the command "chmod +x /home/ferdyhape/tes-cron/tes-cron.sh"
 - The cronjob will run every minute, to change the schedule, adjust the time in the format "min hour day month day_of_week command"
