@@ -16,6 +16,8 @@ This repository contains my study notes on various topics. I have created this r
 
 1. [Hosting Laravel on Panel](tutorials/hosting-laravel-panel.md)
 2. [Install and Running Cronjob on Ubuntu](tutorials/install-and-running-cronjob-ubuntu.md)
+3. [Install PHP Require for Laravel](tutorials/install-php-require-for-laravel-ubuntu.md)
+4. [Implement Service Class in Laravel](tutorials/implement-service-class-laravel.md)
 
 #### Htaccess
 
