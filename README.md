@@ -18,11 +18,14 @@ This repository contains my study notes on various topics. I have created this r
 2. [Install and Running Cronjob on Ubuntu](tutorials/install-and-running-cronjob-ubuntu.md)
 3. [Install PHP Require for Laravel](tutorials/install-php-require-for-laravel-ubuntu.md)
 4. [Implement Service Class in Laravel](tutorials/implement-service-class-laravel.md)
+5. [Laravel UUID](tutorials/uuid-laravel.md)
+6. [Shortcut Laravel Artisan Command](tutorials/shortcut-laravel-artisan.md)
 
 #### Htaccess
 
 1. [Custom CyberPanel](htaccess/custom-cyberpanel.md)
 2. [Default Laravel](htaccess/default-laravel.md)
+3. [One Directory Laravel](htaccess/one-dir-laravel.md)
 
 #### Files
 
