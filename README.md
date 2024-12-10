@@ -20,6 +20,8 @@ This repository contains my study notes on various topics. I have created this r
 4. [Implement Service Class in Laravel](tutorials/implement-service-class-laravel.md)
 5. [Laravel UUID](tutorials/uuid-laravel.md)
 6. [Shortcut Laravel Artisan Command](tutorials/shortcut-laravel-artisan.md)
+7. [Setup PHP PostgreSQL](tutorials/setup-php-postgresql.md)
+8. [OOP Trait Relationship in Laravel Models](tutorials/oop-trait-relationship.md)
 
 #### Htaccess
 
