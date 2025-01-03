@@ -23,6 +23,15 @@ This repository contains my study notes on various topics. I have created this r
 7. [Setup PHP PostgreSQL](tutorials/setup-php-postgresql.md)
 8. [OOP Trait Relationship in Laravel Models](tutorials/oop-trait-relationship.md)
 9. [GMAIL SMTP SETUP | Usage in Laravel](tutorials/gmail-smtp-setup-laravel.md)
+10. [Laravel Middleware](tutorials/middleware-laravel.md)
+
+#### Copy-Paste Templates
+
+1. [Blade Templating in Laravel](copy-paste-template/blade-templating-laravel.md)
+2. [Select 2 in Laravel](copy-paste-template/select2-laravel.md)
+3. [Upload File Laravel Service](copy-paste-template/upload-file-laravel.md)
+4. [Try Catch in Laravel](copy-paste-template/try-catch-laravel.md)
+5. [Yajra Datatables in Laravel](copy-paste-template/yajra-datatable-laravel.md)
 
 #### Htaccess
 
