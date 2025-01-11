@@ -25,6 +25,7 @@ This repository contains my study notes on various topics. I have created this r
 8. [OOP Trait Relationship in Laravel Models](tutorials/oop-trait-relationship.md)
 9. [GMAIL SMTP SETUP | Usage in Laravel](tutorials/gmail-smtp-setup-laravel.md)
 10. [Laravel Middleware](tutorials/middleware-laravel.md)
+11. [Export MySQL Database Using Terminal](tutorials/export-mysql-database-terminal.md)
 
 #### Copy-Paste Templates
 
