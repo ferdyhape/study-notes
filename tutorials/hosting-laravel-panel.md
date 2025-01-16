@@ -85,7 +85,7 @@ cp /home/username/laravel-project/public/.htaccess /home/username/public_html/.h
 
   or you can also add the following code in the htaccess file.
 
-  ````bash
+  ```bash
 
     # BEGIN CyberPanel Generated Rules
     ### Rewrite Rules Added by CyberPanel Rewrite Rule Generator
@@ -116,5 +116,4 @@ cp /home/username/laravel-project/public/.htaccess /home/username/public_html/.h
     deny from all
     allow from 123.123.123.123
     </Files>
-    ```
-  ````
+  ```
