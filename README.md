@@ -30,7 +30,7 @@ This repository contains my study notes on various topics. I have created this r
 #### Copy-Paste Templates
 
 1. [Blade Templating in Laravel](copy-paste-template/blade-templating-laravel.md)
-2. [Select 2 in Laravel](copy-paste-template/select2-laravel.md)
+2. [Select 2 in Laravel](copy-paste-template/select-2-laravel.md)
 3. [Upload File Laravel Service](copy-paste-template/upload-file-laravel.md)
 4. [Try Catch in Laravel](copy-paste-template/try-catch-laravel.md)
 5. [Yajra Datatables in Laravel](copy-paste-template/yajra-datatable-laravel.md)
