@@ -35,7 +35,10 @@ git clone https://github.com/ferdyhape/Django_Product_Management.git
 ```
 
 Example of the cloning process:
-<img src="/img/django-nginx/clone-project.png" width="700" style="display: block; margin-top: 10px;">
+
+<div style="display: block; margin-top: 10px;">
+<img src="/img/django-nginx/clone-project.png" width="700">
+</div>
 
 After cloning:
 <img src="/img/django-nginx/after-clone.png" width="700" style="display: block; margin-top: 10px;">
