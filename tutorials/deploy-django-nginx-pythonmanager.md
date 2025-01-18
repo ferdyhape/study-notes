@@ -35,7 +35,7 @@ git clone https://github.com/ferdyhape/Django_Product_Management.git
 ```
 
 Example of the cloning process:
-<img src="/img/django-nginx/clone-project.png" width="700">
+<img src="/img/django-nginx/clone-project.png" width="700" style="display: block; margin-top: 10px;">
 
 After cloning:
 <img src="/img/django-nginx/after-clone.png" width="700">
@@ -48,7 +48,7 @@ After cloning:
      <img src="/img/django-nginx/py-manager.png" width="700">
 
 2. Click "Add Project" and configure your settings:
-   <img src="/img/django-nginx/add-project.png" width="700">
+   <img src="/img/django-nginx/add-project.png" width="500">
 
 ### 3. Django Settings Configuration
 
@@ -61,7 +61,7 @@ ALLOWED_HOSTS = ['yourdomain.com', 'youripaddress']
 ```
 
 <!-- ![Settings Allowed Host](/img/django-nginx/settings-allowed-host.png) -->
-<img src="/img/django-nginx/settings-allowed-host.png" width="700">
+<img src="/img/django-nginx/settings-allowed-host.png" width="600">
 
 ### 4. Database Setup
 
@@ -71,7 +71,7 @@ ALLOWED_HOSTS = ['yourdomain.com', 'youripaddress']
 
 2. Fill in the database details as needed
    <!-- ![DB Created](/img/django-nginx/db-created.png) -->
-   <img src="/img/django-nginx/db-created.png" width="700">
+   <img src="/img/django-nginx/db-created.png" width="500">
 
 3. Update your `settings.py` with the database configuration:
 
@@ -157,7 +157,7 @@ Example of migration:
 
 2. Configure project settings including user permissions:
    <!-- ![Config](/img/django-nginx/config.png) -->
-   <img src="/img/django-nginx/config.png" width="700">
+   <img src="/img/django-nginx/config.png" width="600">
 
 ### 8. Nginx Configuration
 
