@@ -26,6 +26,7 @@ This repository contains my study notes on various topics. I have created this r
 9. [GMAIL SMTP SETUP | Usage in Laravel](tutorials/gmail-smtp-setup-laravel.md)
 10. [Laravel Middleware](tutorials/middleware-laravel.md)
 11. [Export MySQL Database Using Terminal](tutorials/export-mysql-database-terminal.md)
+12. [Deploy Django with Nginx and Python Manager](tutorials/deploy-django-nginx-pythonmanager.md)
 
 #### Copy-Paste Templates
 
