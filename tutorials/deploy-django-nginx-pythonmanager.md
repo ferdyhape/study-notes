@@ -35,20 +35,30 @@ git clone https://github.com/ferdyhape/Django_Product_Management.git
 ```
 
 Example of the cloning process:
-![Git Clone](/img/django-nginx/clone-project.png)
+
+<div class="image">
+<img src="/img/django-nginx/clone-project.png" width="700">
+</div>
 
 After cloning:
-![After Clone](/img/django-nginx/after-clone.png)
+
+<div class="image">
+<img src="/img/django-nginx/after-clone.png" width="700">
+</div>
 
 ### 2. Python Project Configuration
 
 1. Access the aaPanel dashboard and navigate to Python Manager
 
    - If Python Manager isn't visible, enable it via App Store → Display on Dashboard
-     ![Python Manager](/img/django-nginx/py-manager.png)
+      <div class="image">
+         <img src="/img/django-nginx/py-manager.png" width="700">
+      </div>
 
 2. Click "Add Project" and configure your settings:
-   ![Add Project](/img/django-nginx/add-project.png)
+   <div class="image">
+      <img src="/img/django-nginx/add-project.png" width="500">
+   </div>
 
 ### 3. Django Settings Configuration
 
@@ -60,15 +70,21 @@ Configure allowed hosts:
 ALLOWED_HOSTS = ['yourdomain.com', 'youripaddress']
 ```
 
-![Settings Allowed Host](/img/django-nginx/settings-allowed-host.png)
+<div class="image">
+   <img src="/img/django-nginx/settings-allowed-host.png" width="600">
+</div>
 
 ### 4. Database Setup
 
 1. In aaPanel, go to Database → MySQL tab and click "Add DB"
-   ![Create DB](/img/django-nginx/create-db.png)
+   <div class="image">
+      <img src="/img/django-nginx/create-db.png" width="700">
+   </div>
 
 2. Fill in the database details as needed
-   ![DB Created](/img/django-nginx/db-created.png)
+   <div class="image">
+      <img src="/img/django-nginx/db-created.png" width="500">
+   </div>
 
 3. Update your `settings.py` with the database configuration:
 
@@ -111,10 +127,16 @@ MEDIA_URL = "/media/"  # media is the url name
 ### 5. Dependencies Installation
 
 Navigate to your project's virtual environment directory (you'll see a unique folder name):
-![Unique Folder](/img/django-nginx/unique-folder.png)
+
+<div class="image">
+   <img src="/img/django-nginx/unique-folder.png" width="700">
+</div>
 
 Open terminal in that directory:
-![Terminal](/img/django-nginx/terminal.png)
+
+<div class="image">
+   <img src="/img/django-nginx/terminal.png" width="700">
+</div>
 
 Install requirements:
 
@@ -123,7 +145,10 @@ unique_folder_name/bin/pip3 install -r requirements.txt
 ```
 
 Example of installation:
-![Install Requirements](/img/django-nginx/install-requirements.png)
+
+<div class="image">
+   <img src="/img/django-nginx/install-requirements.png" width="700">
+</div>
 
 Note: You can use the tab key to autocomplete the folder name.
 
@@ -136,20 +161,29 @@ unique_folder_name/bin/python3 manage.py migrate
 ```
 
 Example of migration:
-![Migrate DB](/img/django-nginx/migrate-db.png)
+
+<div class="image">
+   <img src="/img/django-nginx/migrate-db.png" width="700">
+</div>
 
 ### 7. Domain Mapping
 
 1. In Python Manager, click "Mapping" for your project:
-   ![Mapping](/img/django-nginx/mapping.png)
+   <div class="image">
+      <img src="/img/django-nginx/mapping.png" width="700">
+   </div>
 
 2. Configure project settings including user permissions:
-   ![Config](/img/django-nginx/config.png)
+   <div class="image">
+      <img src="/img/django-nginx/config.png" width="600">
+   </div>
 
 ### 8. Nginx Configuration
 
 1. Go to Website section in aaPanel and click "Config" on your project
-   ![Nginx Config](/img/django-nginx/nginx-conf.png)
+   <div class="image">
+      <img src="/img/django-nginx/nginx-conf.png" width="700">
+   </div>
 
 2. Add static files location to your Nginx configuration:
 
@@ -193,3 +227,10 @@ Your Django application should now be accessible through your configured domain 
 - Keep your Django installation updated
 - Monitor server resources through aaPanel
 - Configure SSL certificate for production deployment
+
+<style>
+    .image {
+        display: block;
+        margin-top: 10px;
+    }
+</style>
