@@ -27,6 +27,8 @@ This repository contains my study notes on various topics. I have created this r
 10. [Laravel Middleware](tutorials/middleware-laravel.md)
 11. [Export MySQL Database Using Terminal](tutorials/export-mysql-database-terminal.md)
 12. [Deploy Django with Nginx and Python Manager](tutorials/deploy-django-nginx-pythonmanager.md)
+13. [Add Alias Command on Ubuntu](tutorials/add-alias--command-to-ubuntu.md)
+14. [Solve Git Permission Denied Publickey on Ubuntu](tutorials/solve-git-permission-denied-publickey.md)
 
 #### Copy-Paste Templates
 
