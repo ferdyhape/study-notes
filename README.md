@@ -29,6 +29,7 @@ This repository contains my study notes on various topics. I have created this r
 12. [Deploy Django with Nginx and Python Manager](tutorials/deploy-django-nginx-pythonmanager.md)
 13. [Add Alias Command on Ubuntu](tutorials/add-alias--command-to-ubuntu.md)
 14. [Solve Git Permission Denied Publickey on Ubuntu](tutorials/solve-git-permission-denied-publickey.md)
+15. [Create Symlink on Windows](tutorials/create-symlink-windows.md)
 
 #### Copy-Paste Templates
 
